@@ -1,2 +1,2 @@
-# LumnaOS-Linux-Distro
+# LumnaOS
 The OFFICIAL GitHub repository for the LumnaOS Linux Distribution
