@@ -26,3 +26,4 @@ Currently, LumnaOS does not include a GUI (Graphical User Interface), but plans 
 
 *LumnaOS is an open-source project—your contributions and feedback are welcome!*
 
+*Made with Love in Germany*
