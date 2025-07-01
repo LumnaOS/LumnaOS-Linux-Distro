@@ -13,6 +13,10 @@ Currently, LumnaOS does not include a GUI (Graphical User Interface), but plans 
 - **Community-driven**—join a growing group of users and developers
 - **Built for collaboration**—share feedback, contribute ideas, and help shape the future of LumnaOS
 
+## Known Bugs And Problems
+
+- **UEFI Booting** Currently, LumnaOS can only boot in BIOS environments
+
 ## Get Involved
 
 - **Website:** [Visit LumnaOS](https://lumnaos.weebly.com)
